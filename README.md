@@ -41,10 +41,6 @@ This Excel dashboard analyzes customer churn for an e-commerce platform, offerin
 - A significant portion of churned users reported *no complaints*, indicating silent churn  
 - Improving delivery timelines and post-purchase services could enhance retention  
 
-## 📂 Files Included  
-- Excel Dashboard (not included here – available on request)  
-- Screenshot of Dashboard (used for portfolios or project showcase)
-
 ## 🚀 Project Type  
 **Customer Churn Analysis | Excel Dashboard | Data Visualization**
 """
